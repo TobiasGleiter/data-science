@@ -1,5 +1,6 @@
 .DS_Store
 immo_data.csv
 outData.csv
-cleanedData.csv
+chemnitz_cleaned.csv
 chemnitz_regression_ready.csv
+chemnitz_cleaned_but_not_thermalChar.csv
